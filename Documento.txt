@@ -4,3 +4,4 @@ Operadores:
 Resta: 2-1= 1
 Suma: 14 + 6 = 20
 Multiplacacion: 15 * 2 = 30
+División: 10/2 = 5
