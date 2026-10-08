@@ -1,2 +1,4 @@
 Lider: Oliver Gelvis
-Operadores
+
+Operadores:
+Suma: 14 + 6 = 20
