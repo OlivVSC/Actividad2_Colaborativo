@@ -1,8 +1,7 @@
 Lider: Oliver Gelvis
 Karen Mendoza
 Operadores
-
 Resta: 2-1= 1
-
-Operadores:
 Suma: 14 + 6 = 20
+
+División: 10/2 = 9
