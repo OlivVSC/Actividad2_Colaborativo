@@ -1,8 +1,6 @@
 Lider: Oliver Gelvis
 Karen Mendoza
-Operadores
-
-Resta: 2-1= 1
-
 Operadores:
+Resta: 2-1= 1
 Suma: 14 + 6 = 20
+Multiplacion: 15 * 2 = 20
