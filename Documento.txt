@@ -4,4 +4,4 @@ Operadores
 Resta: 2-1= 1
 Suma: 14 + 6 = 20
 
-División: 10/2 = 9
+División: 10/2 = 5
